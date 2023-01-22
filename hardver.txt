@@ -2,3 +2,5 @@ processzor
 RAM
 scratch
 alaplap
+SSD
+HDD
