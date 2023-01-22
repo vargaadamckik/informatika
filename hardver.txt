@@ -1,3 +1,4 @@
 processzor
 RAM
 scratch
+alaplap
