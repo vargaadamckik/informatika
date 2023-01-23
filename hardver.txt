@@ -4,3 +4,4 @@ tápegység
 alaplap
 SSD
 HDD
+hálozat
